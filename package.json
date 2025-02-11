@@ -91,5 +91,8 @@
       "pre-push": "jest"
     }
   },
-  "packageManager": "yarn@3.6.3"
+  "packageManager": "yarn@3.6.3",
+  "dependencies": {
+    "ulid": "^2.3.0"
+  }
 }
